@@ -24,5 +24,5 @@ node POC.js
 ```
 5. Follow the directions in the program
 
-# OUTPUT
+# Output
 This POC takes in your address and outputs your trash day by using the City of Philadelphias API to get information on your area.  This is only a POC, but in the future there is going to be a frontend and a backend as well as some cloud computing servies integrated to make a full scale software out of this idea.
