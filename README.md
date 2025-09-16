@@ -10,9 +10,16 @@ and
 ```bash
 npm -v
 ```
-2. In your Command Prompt/Terminal run:
+2. Clone the repository to your local environment by running
+```bash
+git clone https://github.com/BenIncollingo/3296POC.git
+```
+3. Install the dependencies by running: 
+```bash 
+npm install
+```
+4. In your Command Prompt/Terminal run:
 ```bash
 node POC.js
 ```
-3. Follow the directions in the program
-
+5. Follow the directions in the program
